@@ -1,4 +1,6 @@
-# co74f46f2b22693c5ea577559
+# React Travel Journal from Scrimba "Learn React for Free" Course 
+
+### Deployed to: https://incandescent-bavarois-94a76b.netlify.app/
 
 Quick start:
 
